@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
   },
   price: {
     fontSize: 15,
-    color: "#888",
+    color: "#8000ff",
     marginBottom: 8,
   },
 });
